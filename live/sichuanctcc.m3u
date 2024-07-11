@@ -43,7 +43,7 @@ http://222.210.57.180:8888/udp/239.93.0.104:5140
 http://222.210.57.180:8888/udp/239.93.1.39:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视高清
 http://222.210.57.180:8888/udp/239.93.0.20:1235
-#EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV1.png" group-title="其他频道",CDTV-1高清
+#EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV1.png" group-title="成都频道",CDTV-1高清
 http://222.210.57.180:8888/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视高清
 http://222.210.57.180:8888/udp/239.93.0.88:5140
@@ -63,17 +63,17 @@ http://222.210.57.180:8888/udp/239.93.0.181:5140
 http://222.210.57.180:8888/udp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视高清
 http://222.210.57.180:8888/udp/239.93.0.168:5140
-#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="其他频道",SCTV-2高清
+#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="四川频道",SCTV-2高清
 http://222.210.57.180:8888/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="其他频道",SCTV-3高清
+#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="四川频道",SCTV-3高清
 http://222.210.57.180:8888/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/SCTV4.png" group-title="其他频道",SCTV-4高清
+#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/SCTV4.png" group-title="四川频道",SCTV-4高清
 http://222.210.57.180:8888/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/SCTV5.png" group-title="其他频道",SCTV-5高清
+#EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/SCTV5.png" group-title="四川频道",SCTV-5高清
 http://222.210.57.180:8888/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://live.fanmingming.com/tv/SCTV6.png" group-title="其他频道",SCTV-6高清
+#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://live.fanmingming.com/tv/SCTV6.png" group-title="四川频道",SCTV-6高清
 http://222.210.57.180:8888/udp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/SCTV7.png" group-title="其他频道",SCTV-7高清
+#EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/SCTV7.png" group-title="四川频道",SCTV-7高清
 http://222.210.57.180:8888/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="SCTV科教" tvg-name="SCTV科教" tvg-logo="https://live.fanmingming.com/tv/SCTV科教.png" group-title="其他频道",SCTV-科教高清
 http://222.210.57.180:8888/udp/239.93.42.44:5140
@@ -141,17 +141,17 @@ http://222.210.57.180:8888/udp/239.93.1.196:5140
 http://222.210.57.180:8888/udp/239.93.0.249:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
 http://222.210.57.180:8888/udp/239.93.0.142:5140
-#EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV2.png" group-title="其他频道",CDTV-2高清
+#EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV2.png" group-title="成都频道",CDTV-2高清
 http://222.210.57.180:8888/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV3.png" group-title="其他频道",CDTV-3高清
+#EXTINF:-1 tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV3.png" group-title="成都频道",CDTV-3高清
 http://222.210.57.180:8888/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV4.png" group-title="其他频道",CDTV-4高清
+#EXTINF:-1 tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV4.png" group-title="成都频道",CDTV-4高清
 http://222.210.57.180:8888/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV5.png" group-title="其他频道",CDTV-5高清
+#EXTINF:-1 tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV5.png" group-title="成都频道",CDTV-5高清
 http://222.210.57.180:8888/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="其他频道",CDTV-6高清
+#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="成都频道",CDTV-6高清
 http://222.210.57.180:8888/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV8.png" group-title="其他频道",CDTV-8高清
+#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV8.png" group-title="成都频道",CDTV-8高清
 http://222.210.57.180:8888/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="其他频道",上海纪实高清
 http://222.210.57.180:8888/udp/239.93.1.137:5140
@@ -763,7 +763,7 @@ http://118.113.146.174:8888/udp/239.93.0.104:5140
 http://118.113.146.174:8888/udp/239.93.1.39:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视高清
 http://118.113.146.174:8888/udp/239.93.0.20:1235
-#EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV1.png" group-title="其他频道",CDTV-1高清
+#EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV1.png" group-title="成都频道",CDTV-1高清
 http://118.113.146.174:8888/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视高清
 http://118.113.146.174:8888/udp/239.93.0.88:5140
@@ -783,17 +783,17 @@ http://118.113.146.174:8888/udp/239.93.0.181:5140
 http://118.113.146.174:8888/udp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视高清
 http://118.113.146.174:8888/udp/239.93.0.168:5140
-#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="其他频道",SCTV-2高清
+#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="四川频道",SCTV-2高清
 http://118.113.146.174:8888/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="其他频道",SCTV-3高清
+#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="四川频道",SCTV-3高清
 http://118.113.146.174:8888/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/SCTV4.png" group-title="其他频道",SCTV-4高清
+#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/SCTV4.png" group-title="四川频道",SCTV-4高清
 http://118.113.146.174:8888/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/SCTV5.png" group-title="其他频道",SCTV-5高清
+#EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/SCTV5.png" group-title="四川频道",SCTV-5高清
 http://118.113.146.174:8888/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://live.fanmingming.com/tv/SCTV6.png" group-title="其他频道",SCTV-6高清
+#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://live.fanmingming.com/tv/SCTV6.png" group-title="四川频道",SCTV-6高清
 http://118.113.146.174:8888/udp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/SCTV7.png" group-title="其他频道",SCTV-7高清
+#EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/SCTV7.png" group-title="四川频道",SCTV-7高清
 http://118.113.146.174:8888/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="SCTV科教" tvg-name="SCTV科教" tvg-logo="https://live.fanmingming.com/tv/SCTV科教.png" group-title="其他频道",SCTV-科教高清
 http://118.113.146.174:8888/udp/239.93.42.44:5140
@@ -861,17 +861,17 @@ http://118.113.146.174:8888/udp/239.93.1.196:5140
 http://118.113.146.174:8888/udp/239.93.0.249:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
 http://118.113.146.174:8888/udp/239.93.0.142:5140
-#EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV2.png" group-title="其他频道",CDTV-2高清
+#EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV2.png" group-title="成都频道",CDTV-2高清
 http://118.113.146.174:8888/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV3.png" group-title="其他频道",CDTV-3高清
+#EXTINF:-1 tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV3.png" group-title="成都频道",CDTV-3高清
 http://118.113.146.174:8888/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV4.png" group-title="其他频道",CDTV-4高清
+#EXTINF:-1 tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV4.png" group-title="成都频道",CDTV-4高清
 http://118.113.146.174:8888/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV5.png" group-title="其他频道",CDTV-5高清
+#EXTINF:-1 tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV5.png" group-title="成都频道",CDTV-5高清
 http://118.113.146.174:8888/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="其他频道",CDTV-6高清
+#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="成都频道",CDTV-6高清
 http://118.113.146.174:8888/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV8.png" group-title="其他频道",CDTV-8高清
+#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV8.png" group-title="成都频道",CDTV-8高清
 http://118.113.146.174:8888/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="其他频道",上海纪实高清
 http://118.113.146.174:8888/udp/239.93.1.137:5140
@@ -1483,7 +1483,7 @@ http://171.217.5.108:4000/udp/239.93.0.104:5140
 http://171.217.5.108:4000/udp/239.93.1.39:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视高清
 http://171.217.5.108:4000/udp/239.93.0.20:1235
-#EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV1.png" group-title="其他频道",CDTV-1高清
+#EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV1.png" group-title="成都频道",CDTV-1高清
 http://171.217.5.108:4000/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视高清
 http://171.217.5.108:4000/udp/239.93.0.88:5140
@@ -1503,17 +1503,17 @@ http://171.217.5.108:4000/udp/239.93.0.181:5140
 http://171.217.5.108:4000/udp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视高清
 http://171.217.5.108:4000/udp/239.93.0.168:5140
-#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="其他频道",SCTV-2高清
+#EXTINF:-1 tvg-id="SCTV2" tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="四川频道",SCTV-2高清
 http://171.217.5.108:4000/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="其他频道",SCTV-3高清
+#EXTINF:-1 tvg-id="SCTV3" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="四川频道",SCTV-3高清
 http://171.217.5.108:4000/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/SCTV4.png" group-title="其他频道",SCTV-4高清
+#EXTINF:-1 tvg-id="SCTV4" tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/SCTV4.png" group-title="四川频道",SCTV-4高清
 http://171.217.5.108:4000/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/SCTV5.png" group-title="其他频道",SCTV-5高清
+#EXTINF:-1 tvg-id="SCTV5" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/SCTV5.png" group-title="四川频道",SCTV-5高清
 http://171.217.5.108:4000/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://live.fanmingming.com/tv/SCTV6.png" group-title="其他频道",SCTV-6高清
+#EXTINF:-1 tvg-id="SCTV6" tvg-name="SCTV6" tvg-logo="https://live.fanmingming.com/tv/SCTV6.png" group-title="四川频道",SCTV-6高清
 http://171.217.5.108:4000/udp/239.93.1.144:5140
-#EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/SCTV7.png" group-title="其他频道",SCTV-7高清
+#EXTINF:-1 tvg-id="SCTV7" tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/SCTV7.png" group-title="四川频道",SCTV-7高清
 http://171.217.5.108:4000/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="SCTV科教" tvg-name="SCTV科教" tvg-logo="https://live.fanmingming.com/tv/SCTV科教.png" group-title="其他频道",SCTV-科教高清
 http://171.217.5.108:4000/udp/239.93.42.44:5140
@@ -1581,17 +1581,17 @@ http://171.217.5.108:4000/udp/239.93.1.196:5140
 http://171.217.5.108:4000/udp/239.93.0.249:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="其他频道",中国交通
 http://171.217.5.108:4000/udp/239.93.0.142:5140
-#EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV2.png" group-title="其他频道",CDTV-2高清
+#EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV2.png" group-title="成都频道",CDTV-2高清
 http://171.217.5.108:4000/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV3.png" group-title="其他频道",CDTV-3高清
+#EXTINF:-1 tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV3.png" group-title="成都频道",CDTV-3高清
 http://171.217.5.108:4000/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV4.png" group-title="其他频道",CDTV-4高清
+#EXTINF:-1 tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV4.png" group-title="成都频道",CDTV-4高清
 http://171.217.5.108:4000/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV5.png" group-title="其他频道",CDTV-5高清
+#EXTINF:-1 tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV5.png" group-title="成都频道",CDTV-5高清
 http://171.217.5.108:4000/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="其他频道",CDTV-6高清
+#EXTINF:-1 tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="成都频道",CDTV-6高清
 http://171.217.5.108:4000/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV8.png" group-title="其他频道",CDTV-8高清
+#EXTINF:-1 tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV8.png" group-title="成都频道",CDTV-8高清
 http://171.217.5.108:4000/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="其他频道",上海纪实高清
 http://171.217.5.108:4000/udp/239.93.1.137:5140
